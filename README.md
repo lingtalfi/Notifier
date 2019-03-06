@@ -15,7 +15,7 @@ Install
 ==========
 Using the [uni](https://github.com/lingtalfi/universe-naive-importer) command.
 ```bash
-uni import Notifier
+uni import Ling/Notifier
 ```
 
 Or just download it and place it where you want otherwise.
@@ -36,7 +36,7 @@ but you can easily adapt the code to your framework.
 <?php
 
 
-use Notifier\Notifier;
+use Ling\Notifier\Notifier;
 
 require_once __DIR__ . "/../boot.php";
 require_once __DIR__ . "/../init.php";

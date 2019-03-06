@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Notifier;
+namespace Ling\Notifier;
 
 class Notifier
 {
